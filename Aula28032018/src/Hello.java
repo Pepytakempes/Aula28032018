@@ -6,6 +6,6 @@ public class Hello {
 		System.out.println("SENAI melhor curso");
 		System.out.println("BATATA");
 		System.out.println("GABRIEL RIBEIRO Vulgo Baby");
-
+                System.out.println("Senai ta acabando sad");
 	}
 }
